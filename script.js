@@ -190,7 +190,7 @@ const whyText = document.getElementById("whyText");
 const whyCounter = document.getElementById("whyCounter");
 
 const loveReasons = [
-  "I love you because you understand me even when I don’t explain properly.",
+  "I love you because you feel like home somewhere safe only for me.",
   "I love you for the way you support me, calm me, and stand by me no matter what.",
   "I love you because with you, even ordinary moments feel magical.",
 ];
