@@ -393,7 +393,7 @@ function clearDigit() {
 }
 
 function unlockVault() {
-  const correct = "13092002";
+  const correct = "13102002";
   const input = document.getElementById("vaultInput");
   const entered = input.value;
 
@@ -415,3 +415,4 @@ function unlockVault() {
     }, 500);
   }
 }
+
